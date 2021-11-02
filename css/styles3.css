@@ -1,0 +1,11 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: green;
+    background-image:url(https://pngimg.com/uploads/lamp/lamp_PNG3722.png), url(https://www.pngkey.com/png/full/1-15377_grass-png-transparent-background.png), url(https://img2.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg),url(https://pngimg.com/uploads/donut/donut_PNG63.png), url(https://vignette.wikia.nocookie.net/mashaandthebear/images/e/e0/%D0%81%D0%B6%D0%B8%D0%BA.png/revision/latest?cb=20180209130328&path-prefix=ru);
+    background-position: 0% 0%, 0% 100%, 50% 50%, 100% 0%;
+    background-size: 70px, 200px, 700px, 60px, 70px;
+    background-repeat: repeat-x, repeat-x, no-repeat, repeat-y, repeat-y;
+}
